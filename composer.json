@@ -11,7 +11,7 @@
         "egulias/email-validator": "^4.0.1",
         "elasticsearch/elasticsearch": "^8.9.0",
         "guzzlehttp/guzzle": "^7.8.0",
-        "laravel/framework": "^10.23.1",
+        "laravel/framework": "^10.24.0",
         "laravel/octane": "^2.0.6",
         "laravel/sanctum": "^3.3.1",
         "laravel/tinker": "^2.8.2",
@@ -22,7 +22,7 @@
         "nmred/kafka-php": "^0.1.6",
         "php-http/promise": "^1.1",
         "php-mqtt/client": "^1.8.1",
-        "phpunit/phpunit": "^10.3.4",
+        "phpunit/phpunit": "^10.3.5",
         "predis/predis": "^2.2.2",
         "psr/cache": "^3.0",
         "psr/http-client": "^1.0.2",
@@ -37,11 +37,11 @@
     },
     "require-dev": {
         "fakerphp/faker": "^1.23.0",
-        "laravel/pint": "^1.13.1",
+        "laravel/pint": "^1.13.2",
         "laravel/sail": "^1.25.0",
         "mockery/mockery": "^1.6.6",
-        "nunomaduro/collision": "^7.8.1",
-        "phpunit/php-code-coverage": "^10.1.5",
+        "nunomaduro/collision": "^7.9.0",
+        "phpunit/php-code-coverage": "^10.1.6",
         "spatie/laravel-ignition": "^2.3.0"
     },
     "autoload": {
